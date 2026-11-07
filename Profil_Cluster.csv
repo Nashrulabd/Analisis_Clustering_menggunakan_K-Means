@@ -1,0 +1,7 @@
+Cluster,Jumlah,Persentase (%),Median latitude,Median longitude,Median depth (km),Kategori kedalaman,Median mag,Wilayah dominan
+0,1774,17.74,-16.61,-69.15,10.0,dangkal (< 70 km),4.7,"South Sandwich Islands region (14%), Chile (11%), Mexico (9%)"
+1,2472,24.72,51.27,158.42,28.1,dangkal (< 70 km),4.7,"Russia (66%), Japan (18%), Alaska (9%)"
+2,2350,23.5,4.11,125.3,10.0,dangkal (< 70 km),4.7,"Indonesia (43%), Philippines (30%), Japan (5%)"
+3,839,8.39,35.41,62.45,10.0,dangkal (< 70 km),4.7,"China (12%), Mid-Indian Ridge (10%), Greece (8%)"
+4,1359,13.59,-7.32,128.36,145.2,menengah (70-300 km),4.6,"Indonesia (14%), Papua New Guinea (14%), Philippines (10%)"
+5,1206,12.06,-22.46,-118.92,10.0,dangkal (< 70 km),4.7,"Tonga (15%), Vanuatu (12%), south of the Kermadec Islands (10%)"

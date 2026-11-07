@@ -1,0 +1,21 @@
+{
+  "feature_set": "Lokasi 3D + depth",
+  "final_features": [
+    "x",
+    "y",
+    "z",
+    "depth"
+  ],
+  "original_features": [
+    "latitude",
+    "longitude",
+    "depth",
+    "mag",
+    "nst",
+    "dmin",
+    "rms",
+    "gap"
+  ],
+  "k_optimal": 6,
+  "random_state": 42
+}
